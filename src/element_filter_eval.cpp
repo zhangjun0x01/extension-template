@@ -1,5 +1,8 @@
 #include "element_filter_eval.hpp"
 #include <cmath>
+#include <cstring>
+#include <cstdlib>
+#include <string>
 #include <yyjson.hpp>
 
 using namespace duckdb_yyjson;
